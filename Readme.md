@@ -10,7 +10,7 @@ Além de conhecer as funcionalidades do framework Django, no curso foi desenvolv
 
 ## Instalação
 
-Para instalar o projeto, é necessário ter o Python 3.11 instalado em sua máquina. Após isso, basta clonar o repositório e instalar as dependências do projeto.<br><br>
+Para instalar o projeto é necessário ter o Python 3.11 instalado em sua máquina. Após isso, basta clonar o repositório e instalar as dependências do projeto.<br><br>
 
 ## Dependências
 pip install virtualenv  
